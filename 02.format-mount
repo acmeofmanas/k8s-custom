@@ -1,6 +1,6 @@
-device=vdb1
+#device=vdb1
 
-echo "mkfs.ext4 /dev/$(device)" 
-echo "/dev/$(device)	/data	ext4	defaults 0 0"  >> /etc/fstab
+echo "mkfs.ext4 /dev/vdb1" 
+echo "/dev/vdb1	/data	ext4	defaults 0 0"  >> /etc/fstab
 
 

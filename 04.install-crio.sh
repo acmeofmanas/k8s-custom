@@ -32,6 +32,6 @@ sudo make install
 #add conman and copy few binary
 echo "PATH=$PWD/conman/bin:$PATH" >> /etc/sysconfig/crio
 #
-cp /usr/bin/pinns conmon/bin/
-cp /usr/bin/nsenter conmon/bin/
-cp /usr/bin/runc conmon/bin/
+cp /usr/bin/pinns $PWD/conmon/bin/
+cp /usr/bin/nsenter $PWD/conmon/bin/
+cp /usr/bin/runc $PWD/conmon/bin/
