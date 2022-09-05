@@ -1,0 +1,8 @@
+k8s.gcr.io/coredns/corednsv1.8.6
+k8s.gcr.io/etcd3.5.3-0
+k8s.gcr.io/kube-apiserverv1.24.3
+k8s.gcr.io/kube-controller-managerv1.24.3
+k8s.gcr.io/kube-proxyv1.24.3
+k8s.gcr.io/kube-schedulerv1.24.3
+k8s.gcr.io/pause3.5
+k8s.gcr.io/pause3.7
