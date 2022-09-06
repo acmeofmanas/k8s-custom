@@ -9,3 +9,5 @@ https://dl.k8s.io/release/v1.24.0/bin/linux/amd64/kubeadm
 https://dl.k8s.io/release/v1.24.0/bin/linux/amd64/kubectl
 
 https://dl.k8s.io/release/v1.24.0/bin/linux/amd64/kubelet
+
+https://github.com/cri-o/cri-o/releases/download/v1.24.0/cri-o.amd64.v1.24.0.tar.gz
